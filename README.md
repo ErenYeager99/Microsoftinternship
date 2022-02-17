@@ -8,6 +8,7 @@ Step 1: Create a resource group under QnA maker in Azure Portal
 
 
 
+
 Step 2: Create a knowledge base through the QnA Maker Portal
 
 Note: Copy the iframe tag code to be embedded into website.
